@@ -1,0 +1,16 @@
+{
+  "name": "kakao-test",
+  "version": "1.0.0",
+  "description": "kakao",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "byoungyoon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
